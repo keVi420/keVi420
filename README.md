@@ -1,7 +1,7 @@
 ### Hi, I'm kevi420 👋
 #### Design and Development
 
-• I'm Kevin from Poland and I really enjoy learning languages and frameworks. I also enjoy UI/UX and design in general. 😉
+- I'm Kevin from Poland and I really enjoy learning languages and frameworks. I also enjoy UI/UX and design in general. 😉
 
 Skills: HTML / CSS / SCSS / JS / PHP
 
