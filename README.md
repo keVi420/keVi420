@@ -1,6 +1,5 @@
 ### Hi, I'm kevi420 👋
 #### Design and Development
-![Design and Development](https://teeltechcanada.com/2015/wp-content/uploads/2017/07/hacker-banner.jpg)
 
 • I'm Kevin from Poland and I really enjoy learning languages and frameworks. I also enjoy UI/UX and design in general. 😉
 
