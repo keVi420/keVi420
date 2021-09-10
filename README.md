@@ -4,9 +4,8 @@
 
 - 🌱 I’m currently learning golang and python.
 
-## Design and Development
+## Languages and Tools:
 
-Skills: HTML / CSS / SCSS / JS / PHP
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
@@ -17,7 +16,7 @@ Skills: HTML / CSS / SCSS / JS / PHP
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keVi420)](https://github.com/anuraghazra/github-readme-stats)
 
-## Socials
+## Socials:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/keVi420)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/xFelixer)
 
