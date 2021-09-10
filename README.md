@@ -9,5 +9,7 @@ Skills: HTML / CSS / SCSS / JS / PHP
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/keVi420)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/xFelixer)  
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keVi420)](https://github.com/anuraghazra/github-readme-stats)
 
