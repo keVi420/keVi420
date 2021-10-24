@@ -2,7 +2,7 @@
 
 - 😉 I'm Kevin from Poland and I really enjoy learning languages and frameworks. I also enjoy UI/UX and design in general.
 
-- 🌱 I’m currently learning golang and python.
+- 🌱 I’m currently learning python and c++.
 
 ## Languages and Tools:
 
